@@ -1,6 +1,4 @@
-[
- 
- {class : "fa fa-glass" , unicode: "\uf000"},
+[{class : "fa fa-glass" , unicode: "\uf000"},
  {class : "fa fa-music" , unicode: "\uf001"},
  {class : "fa fa-search" , unicode: "\uf002"},
  {class : "fa fa-envelope-o" , unicode:"\uf003"},
